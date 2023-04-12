@@ -1,6 +1,6 @@
 # ######Schelling Segregation Model######
 # 
-# ##Purpose##
+# DESCRIPTION:
 # Determine whether segregation can be explained by individual motivations to avoid being a local minority. Agents will move around
 # a two-dimensional space depending on whether they are a racial minority within their local neighborhood.
 #
